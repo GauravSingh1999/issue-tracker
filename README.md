@@ -14,7 +14,7 @@ This is a simple open issue tracker which fetches open issues using github api, 
 
  - Move to the project directory.
  - Write `npm install` to install all the dependencies.
- - Run index.html on your browser.
+ - Run `index.html` on your browser.
  
 **How to contribute**
 
